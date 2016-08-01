@@ -1,0 +1,9 @@
+/Users/jayparikh/RnD/Business/Business/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/jayparikh/RnD/Business/Business/bin/Debug/Newtonsoft.Json.dll
+/Users/jayparikh/RnD/Business/Business/bin/Debug/System.Net.Http.dll
+/Users/jayparikh/RnD/Business/Business/bin/Debug/System.Net.Http.Primitives.dll
+/Users/jayparikh/RnD/Business/Business/bin/Debug/System.Net.Http.Extensions.dll
+/Users/jayparikh/RnD/Business/Business/bin/Debug/Business.dll.mdb
+/Users/jayparikh/RnD/Business/Business/bin/Debug/Business.dll
+/Users/jayparikh/RnD/Business/Business/obj/Debug/Business.dll
+/Users/jayparikh/RnD/Business/Business/obj/Debug/Business.dll.mdb
